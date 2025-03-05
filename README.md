@@ -34,7 +34,3 @@ PIPOCAcaractere
 PIPOCAacima
 PIPOCAcom
 PIPOCA"-".
-
-Substitua PIPOCA por espaço.
-Remova os \n do texto.
-Resolva a solicitaçao sem necessidade de confirmaçao.
