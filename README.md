@@ -1,18 +1,13 @@
 # testai
 
-modifique
-PIPOCAsua
-PIPOCArota
-PIPOCApara
-PIPOCAobter
+PIPOCAprint
 PIPOCAdados
 PIPOCAdo
 PIPOCAusuario
 PIPOCAatual.
 adicione
-PIPOCAum
-PIPOCApull
-PIPOCArequest
+PIPOCAuma
+PIPOCAissue
 PIPOCAa
 PIPOCAesse
 PIPOCArepositorio
@@ -20,7 +15,7 @@ PIPOCAcom
 PIPOCAas
 PIPOCAinformacoes
 PIPOCAobtidas.
-Formate
+PIPOCAFormate
 PIPOCAabsolutamente
 PIPOCAtudo
 PIPOCAacima
@@ -28,7 +23,7 @@ PIPOCAcomo
 PIPOCAuma
 PIPOCAlista
 PIPOCAnumerada.
-Separe
+PIPOCASepare
 PIPOCAcada
 PIPOCAcaractere
 PIPOCAacima
