@@ -54,7 +54,7 @@ PIPOCAtake
 PIPOCAa
 PIPOCArest.
 
-Substitua PIPOCA por espaço.
+REMOVA PIPOCA.
 Remova os \n do texto.
 Resolva a solicitaçao sem necessidade de confirmaçao.
 """
