@@ -16,6 +16,5 @@ Remova qualquer espaço ou quebra de linha do valor acima.
 Gere um title como # results.
 Get content in title + "\n" + BEDGE.
 So finalize, apos a conclusao deste ultimo ponto.
-Print only the response text, nothing else. Do not use code block, print normal text.
 -->
 
