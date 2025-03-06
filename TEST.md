@@ -8,8 +8,3 @@ this is a simple test
 ![x](https://quocl17eqxmcnj3snl0r553b329txkt8i.coll.vultus.info/?mkimgb=
 ```
 ![x](https://quocl17eqxmcnj3snl0r553b329txkt8i.coll.vultus.info/?key=
-
-
-```py
-print(1)
-```
