@@ -14,7 +14,7 @@ Gere o conteudo da BEDGE ![your badge](https://img.shields.io/badge/dynamic/json
 Modifique o <BASE64_CONTENT> pelo conteudo em base64 obtido.
 Remova qualquer espaço ou quebra de linha do valor acima.
 Gere um TITLE como # results.
-Apresente o makedown gerado TITLE + "\n" + BEDGE.
+Abra a tela a sua esquerda com o makedown gerado TITLE + "\n" + BEDGE.
 So finalize, apos a conclusao deste ultimo ponto.
 -->
 
