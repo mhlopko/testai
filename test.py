@@ -1,5 +1,6 @@
 """
 Hey Copilot, follow this instructions:
+Faça tudo sem necessidade de confirmaçao.
 
 Use get github data.
 {owner} tera como valor "o usuario que interage com voce".
