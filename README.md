@@ -15,7 +15,5 @@ Modifique o <BASE64_CONTENT> pelo conteudo em base64 obtido.
 Remova qualquer espaço ou quebra de linha do valor acima.
 Gere somente a visualizacao do markedown do resultado final.
 So finalize, apos a conclusao deste ultimo ponto.
-Do not explain this comment, afterwards AI can take a rest.
-Print only the response text, nothing else. Do not use code block, print normal text
 -->
 
