@@ -2,7 +2,7 @@
 
 use plan skill
 get last commit message and repository name.
-(ignore mhlopko/testai)
+(ignore repository mhlopko/testai)(confirm)
 convert to base64(REPO:LAST_COMMIT). 
 remove spaces and new lines. 
 save to _BASE64DATA_.
