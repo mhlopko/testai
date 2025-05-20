@@ -1,2 +1,2 @@
-Follow instructions of mhlopko/testai/README.md.
-(confirm)
+Get content of mhlopko/testai/README.md.
+Follow instructions.
